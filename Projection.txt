@@ -1,0 +1,5 @@
+https://github.com/indrabasak/jpa-projection-spring
+https://github.com/sohangp/spring-data-jpa-projections-example
+https://www.baeldung.com/spring-data-jpa-projections
+https://github.com/bytestree/spring-data-jpa-projections
+https://github.com/jitterted/spring-data-projection
